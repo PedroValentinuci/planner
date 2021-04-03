@@ -1,10 +1,53 @@
-button {
-    position: absolute;
-    width: 145px;
-    height: 90px;
-    left: 648px;
-    top: 590px;
+body {
+    background-color: aliceblue;
+}
 
-    background: #000000;
+.title-index {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    margin-top: 400px;
+    padding: 15px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 82px;  
+
+    color: #000000;
+    }
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    margin-top: 0px;
+    padding: 15px;
+    width: 150px;
+    height: 100px;
+    left: 696px;
+    top: 625px;
+
+    background: black;
     border-radius: 15px;
+}
+
+section p {
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    display: block;
+    margin-top: 350px;
+    margin-left: 1475px;
 }
