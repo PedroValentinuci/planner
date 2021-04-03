@@ -1,22 +1,22 @@
 body {
-    background-color: aliceblue;
+    background-color: #1a1a1d;
 }
 
 .title-index {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 500px;
     max-width: 700px;
     margin-top: 400px;
     padding: 15px;
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     font-style: normal;
     font-weight: normal;
     font-size: 70px;
     line-height: 82px;  
 
-    color: #000000;
+    color: #c3073f;
     }
 
 button {
@@ -31,7 +31,7 @@ button {
     left: 696px;
     top: 625px;
 
-    background: black;
+    background: #6f2232;
     border-radius: 15px;
 }
 
@@ -39,6 +39,7 @@ section p {
     font-size: large;
     text-decoration: none;
     color: white;
+    font-family: "Roboto", sans-serif;
 }
 
 a {
