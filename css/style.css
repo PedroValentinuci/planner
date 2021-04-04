@@ -1,3 +1,5 @@
+/* index.html */
+
 body {
     background-color: #1a1a1d;
 }
@@ -35,14 +37,14 @@ button {
     border-radius: 15px;
 }
 
-section p {
+.button-text {
     font-size: large;
     text-decoration: none;
     color: white;
     font-family: "Roboto", sans-serif;
 }
 
-a {
+.button-link {
     text-decoration: none;
     color: white;
 }
@@ -52,3 +54,5 @@ footer .direitos {
     margin-top: 266px;
     margin-left: 1475px;
 }
+
+/* list.html */
