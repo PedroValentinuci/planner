@@ -56,3 +56,19 @@ footer .direitos {
 }
 
 /* list.html */
+
+.section-list h1 {
+    color: #c3073f;
+}
+
+.months-list {
+    list-style-type: none;
+    text-decoration: none;
+    border: 1px ;
+
+}
+
+.months-list a {
+    text-decoration: none;
+    color: white;
+}
