@@ -21,7 +21,7 @@ body {
     color: #c3073f;
     }
 
-button {
+.button-list {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -88,3 +88,5 @@ footer .direitos {
     text-decoration: none;
     color: white;
 }
+
+/* all months */
