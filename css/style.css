@@ -117,7 +117,7 @@ textarea {
     resize: none;
     font-size: 20px;
     background-color: #4e4e50;
-    
+    color: white;
     text-align: justify;
 }
 
@@ -134,3 +134,4 @@ img {
 }
 
 /* calendar */
+
