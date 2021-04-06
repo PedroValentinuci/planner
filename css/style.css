@@ -12,7 +12,7 @@ body {
 .title-index {
     display: block;
     margin-left: auto;
-    margin-right: 500px;
+    margin-right: auto;
     max-width: 700px;
     margin-top: 400px;
     padding: 15px;
@@ -56,14 +56,14 @@ body {
 
 footer .direitos {
     display: block;
-    margin-top: 266px;
-    margin-left: 1475px;
+    margin-top: 265px;
+    
 }
 
 /* list.html */
 
 
-.section-list h1 {
+.h1-list {
     display: block;
     max-width: fit-content;
     margin-left: auto;
@@ -103,13 +103,13 @@ footer .direitos {
     color: #c3073f;
 }
 
-table {
+.january-table, .february-table, .march-table, .april-table, .may-table, .june-table, .july-table, .august-table, .september-table, .october-table, .november-table, .december-table {
     margin-left: auto;
     margin-right: auto;
     border-collapse: collapse;
 }
 
-th {
+.week, .days1, .days2, .days3, .days4, .days5, .days6 {
     color: #6f2232;
 }
 
@@ -121,7 +121,8 @@ textarea {
     text-align: justify;
 }
 
-table, th, textarea {
+.january-table, .february-table, .march-table, .april-table, .may-table, .june-table, .july-table, .august-table, .september-table, .october-table, .november-table, .december-table, 
+.week, .days1, .days2, .days3, .days4, .days5, .days6, textarea {
     border: 1px solid #4e4e50;
 }
 
@@ -132,6 +133,3 @@ img {
     height: 40px; 
     margin-left: auto;
 }
-
-/* calendar */
-
