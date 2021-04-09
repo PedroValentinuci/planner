@@ -10,6 +10,6 @@ table {
     text-align: center;
 }
 
-/* .januray {
-    float: left;
-} */
+.january, .february {
+    display: inline-block;
+}
