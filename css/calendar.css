@@ -10,6 +10,10 @@ table {
     text-align: center;
 }
 
-.january, .february {
+.january, .february, .march, .april, .may, .june {
     display: inline-block;
 }
+
+/* .july, .august, .september {
+
+} */
