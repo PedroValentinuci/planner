@@ -6,6 +6,17 @@ body {
     background-color: #1a1a1d;
 }
 
+.title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+    color: #c3073f;
+
+    text-decoration: underline;
+}
+
 table {
     text-align: center;
 }
@@ -18,20 +29,29 @@ tbody {
     color: gray;
 }
 
-h3 {
-    text-align: center;
+td, thead {
+    border: 1px solid gray;
+    
+}
+
+h3{
+    display: block;
     color: #c3073f;
 }
 
 .january, .february, .march, .april, .may, .june, .july, .august, .september, .october, .november, .december {
     display: inline-block;
+    margin-top: 50px;
     width: 300px;
-    height: 400px;
-    padding: 5px;
+    height: 300px;
+    padding: 1px;
 
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 
     word-break: break-all;
 }
 
+td {
+    padding: 5px;
+}
