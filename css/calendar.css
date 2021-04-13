@@ -17,6 +17,10 @@ body {
     text-decoration: underline;
 }
 
+.months {
+    margin-left: 35px;
+}
+
 table {
     text-align: center;
 }
@@ -54,4 +58,10 @@ h3{
 
 td {
     padding: 5px;
+}
+img {
+    display: block;
+    width: 100px;
+    height: 45px;
+    margin-top: 90px;
 }
